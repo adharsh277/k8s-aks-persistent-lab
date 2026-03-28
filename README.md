@@ -7,3 +7,4 @@ Wegen des Regens (because of the rain)
 Case	Question	Example
 Akkusativ	Wen/Was	Ich sehe den Mann
 Dativ	Wem	Ich helfe dem Mann
+
